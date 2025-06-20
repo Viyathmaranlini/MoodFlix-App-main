@@ -13,4 +13,4 @@ The application offers a modern, mobile-friendly UI built with #React.js, styled
 - ✅Fully responsive UI/UX optimized for all devices
 - ✅Dynamic pages for top genres, languages, and release years
 
-MoodFlix exemplifies the convergence of #AI, hashtag#emotionaware computing, and user-centered design, offering a seamless and engaging way to discover content that resonates emotionally with the viewer.
+MoodFlix exemplifies the convergence of #AI, #emotionaware computing, and user-centered design, offering a seamless and engaging way to discover content that resonates emotionally with the viewer.
